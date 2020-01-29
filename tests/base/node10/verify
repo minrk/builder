@@ -1,11 +1,11 @@
 #!/bin/sh
 
-set -e
+set -ex
 # check node from conda-forge
 which node
-node --version
-node --version | grep v11
-# check node system package
+node --version | grep v12
+
+# check node system package and its version
 /usr/bin/node --version
 /usr/bin/node --version | grep v10
 

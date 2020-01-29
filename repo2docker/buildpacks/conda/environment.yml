@@ -1,5 +1,6 @@
 dependencies:
   - python=3.7
+  - nodejs=12
   - ipywidgets==7.4.2
   - jupyterlab==0.35.4
   - jupyterhub=1.1.0
