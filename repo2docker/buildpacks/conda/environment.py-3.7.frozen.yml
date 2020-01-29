@@ -1,5 +1,5 @@
 # AUTO GENERATED FROM environment.py-3.7.yml, DO NOT MANUALLY MODIFY
-# Frozen on 2020-01-29 13:30:21 UTC
+# Frozen on 2020-01-29 13:46:50 UTC
 name: r2d
 channels:
   - conda-forge
@@ -31,17 +31,18 @@ dependencies:
   - ipykernel=5.1.4=py37h5ca1d4c_0
   - ipython=7.11.1=py37h5ca1d4c_0
   - ipython_genutils=0.2.0=py_1
-  - ipywidgets=7.4.2=py_0
+  - ipywidgets=7.5.1=py_0
   - jaraco.itertools=5.0.0=py_0
   - jedi=0.16.0=py37_0
   - jinja2=2.11.0=py_0
+  - json5=0.8.5=py_0
   - jsonschema=3.2.0=py37_0
   - jupyter_client=5.3.4=py37_1
   - jupyter_core=4.6.1=py37_0
   - jupyter_telemetry=0.0.4=py_0
   - jupyterhub=1.1.0=py37_0
-  - jupyterlab=0.35.4=py37_0
-  - jupyterlab_server=0.2.0=py_0
+  - jupyterlab=1.2.6=py_0
+  - jupyterlab_server=1.0.6=py_0
   - krb5=1.16.4=h2fd8d38_0
   - ld_impl_linux-64=2.33.1=h53a641e_8
   - libcurl=7.65.3=hda55be3_0
@@ -57,11 +58,11 @@ dependencies:
   - markupsafe=1.1.1=py37h516909a_0
   - mistune=0.8.4=py37h516909a_1000
   - more-itertools=8.1.0=py_0
-  - nbconvert=5.4.1=py_2
+  - nbconvert=5.6.1=py37_0
   - nbformat=5.0.4=py_0
   - ncurses=6.1=hf484d3e_1002
   - nodejs=12.14.1=h67efad7_0
-  - notebook=5.7.8=py37_1
+  - notebook=6.0.3=py37_0
   - nteract_on_jupyter=2.1.3=py_0
   - oauthlib=3.0.1=py_0
   - openssl=1.1.1d=h516909a_0
@@ -105,7 +106,7 @@ dependencies:
   - wcwidth=0.1.8=py_0
   - webencodings=0.5.1=py_1
   - wheel=0.34.1=py37_0
-  - widgetsnbextension=3.4.2=py37_1000
+  - widgetsnbextension=3.5.1=py37_0
   - xz=5.2.4=h14c3975_1001
   - zeromq=4.3.2=he1b5a44_2
   - zipp=2.1.0=py_0
